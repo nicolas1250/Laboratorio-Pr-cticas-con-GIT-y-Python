@@ -1,1 +1,1 @@
-# Laboratorio-Pr-cticas-con-GIT-y-Python
+# Laboratorio_Practicas_con_GIT_y_Python
